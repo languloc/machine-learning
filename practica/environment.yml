@@ -1,0 +1,8 @@
+name: experiments
+channels:
+- defaults
+dependencies:
+- jupyter>=1.0.0
+- matplotlib
+- pandas
+- scikit-learn>=0.19.1
